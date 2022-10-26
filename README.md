@@ -18,5 +18,12 @@ A special project had been brought up to Jeremy by upper management. Production 
 - The p-value of 0.45 exceeds the significance level when using the conventional 0.05 percent level of significance. The PSI over all manufacturing lots is statistically equivalent to the population mean, as there is insufficient data to refute the null hypothesis.
 
 ## Study Design: MechaCar to the Competition
+
+### What metric or metrics are you going to test?
 - The performance of MechaCar is intended to be on par with or better than that of automobiles found in the general market. The best way to accomplish this goal is to make improvements to the MechaCar's safety features, pricing, and fuel efficiency. Data must be gathered for all MechaCar production designs in addition to the six factors from this research.
+### What is the null hypothesis or alternative hypothesis?
+- The null hypothesis would be that each performance metric is the same because all vehicles from other manufacturers have performance metrics that are statistically similar to those of MechaCar.
+### What statistical test would you use to test the hypothesis? And why?
 - In this scenario, ANOVA would be utilized. In this test, a continuous numerical variable is compared between different groups. Therefore, for this research, we would compare the means of each statistic among manufacturers.
+### What data is needed to run the statistical test?
+-We would need data from MechaCar and its rivals in one data frame, with each measure organized into a single column, in order to execute the test.
